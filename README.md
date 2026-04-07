@@ -8,6 +8,9 @@ This project is a robust Selenium automation framework built using **Java**, **T
 * **Property Files:** Managed locators and configurations via `.properties` files.
 * **WebDriverManager:** Automated management of ChromeDriver (No manual .exe needed).
 * **TestNG:** Used for annotations, assertions, and test execution.
+* **BDD Framework:** Integrated Cucumber with Gherkin scenarios
+* **Logging:** Used Log4j2 for step-by-step execution logs
+* **Reporting:** Enhanced Extent Reports with Screenshots on failure
 
 ### 🛠️ Tech Stack:
 * **Language:** Java
